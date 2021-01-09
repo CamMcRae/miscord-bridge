@@ -1,0 +1,27 @@
+{
+  "logLevel": "info",
+  "messenger": {
+    "username": "%MESSENGER_USERNAME%",
+    "password": "%MESSENGER_PASSWORD%"
+  },
+  "discord": {
+    "renameChannels": false,
+    "createChannels": true,
+    "showFullNames": true,
+    "userMentions": false,
+    "ignoreBots": true,
+    "token": "%DISCORD_TOKEN%",
+    "guild": "376802702048362499"
+  },
+  "checkUpdates": false,
+  "ignoredSequences": {},
+  "channels": {
+    "error": ["124349142708387840"]
+  },
+  "enableEval": false,
+  "api": {
+    "username": "Admin",
+    "password": "%DASHBOARD_PASSWORD%",
+    "port": 4000
+  }
+}
