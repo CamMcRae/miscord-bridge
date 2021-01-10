@@ -1,4 +1,5 @@
-config/*
+session.json
+config.json
 
 # Logs
 logs

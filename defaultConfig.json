@@ -11,7 +11,7 @@
     "userMentions": false,
     "ignoreBots": true,
     "token": "%DISCORD_TOKEN%",
-    "guild": "376802702048362499"
+    "guild": "752990359088267375"
   },
   "checkUpdates": false,
   "ignoredSequences": {},

@@ -1,0 +1,8 @@
+__comment: >-
+  This is your connections.yml file. More info at
+  https://github.com/miscord/miscord/wiki/Connections.yml
+ece-crew:
+  - type: discord
+    id: '797689604689887232'
+  - type: messenger
+    id: '4430182783673489'
